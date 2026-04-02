@@ -2,7 +2,7 @@
 
 Este repositório é um projeto de Modelagem de gestão de vendas e feedback com extração de insights para E-commerce. O projeto abrange desde a modelagem lógica e estruturação das tabelas até a extração de métricas estratégicas (KPIs) fundamentais para a saúde de um negócio digital.
 
-# 🎯 Objetivo do Projeto*#
+# 🎯 Objetivo do Projeto #
 
 Demonstrar o domínio de SQL para:
 
