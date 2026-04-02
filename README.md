@@ -20,7 +20,7 @@ Estoque: Controle em tempo real de disponibilidade.
 Venda e Item_venda: Registro detalhado de transações financeiras.
 Feedback: Monitoramento qualitativo da experiência do consumidor.
 
-#⚙️ Estrutura do Repositório #
+## ⚙️ Estrutura do Repositório ##
 
 Os scripts SQL estão organizados da seguinte forma:
 
