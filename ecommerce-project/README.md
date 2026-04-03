@@ -1,8 +1,8 @@
-## E-commerce Data Insights: Gestão de Vendas e Feedback 📊 ##
+# E-commerce Data Insights: Gestão de Vendas e Feedback 📊 #
 
 Este repositório é um projeto de Modelagem de gestão de vendas e feedback com extração de insights para E-commerce. O projeto abrange desde a modelagem lógica e estruturação das tabelas até a extração de métricas estratégicas (KPIs) fundamentais para a saúde de um negócio digital.
 
-# 🎯 Objetivo do Projeto*#
+## 🎯 Objetivo do Projeto ##
 
 Demonstrar o domínio de SQL para:
 
@@ -10,7 +10,7 @@ Demonstrar o domínio de SQL para:
 2. Análise de Negócio: Extração de insights.
 3. Manutenção de Dados: Manipulação segura de registros.
 
-# 🏗️ Arquitetura do Banco de Dados #
+## 🏗️ Arquitetura do Banco de Dados ##
 
 O sistema foi estruturado em 7 tabelas principais:
 
@@ -20,7 +20,7 @@ Estoque: Controle em tempo real de disponibilidade.
 Venda e Item_venda: Registro detalhado de transações financeiras.
 Feedback: Monitoramento qualitativo da experiência do consumidor.
 
-#⚙️ Estrutura do Repositório #
+## ⚙️ Estrutura do Repositório ##
 
 Os scripts SQL estão organizados da seguinte forma:
 
@@ -29,7 +29,7 @@ Os scripts SQL estão organizados da seguinte forma:
 3. Selects: Consultas avançadas de dados com condições.
 4. Update/Delete: Comandos de manutenção de dados para atualizações ou exclusões.
 
-# 🚀 Como Executar #
+## 🚀 Como Executar ##
 
 Para executar os scripts, siga os passos abaixo em um ambiente de banco de dados compatível com SQL padrão (preferencialmente PostgreSQL, MySQL ou SQL Server, com pequenas adaptações se necessário)
 
@@ -40,7 +40,7 @@ Passos:
 4. Faça as consultas com o script de selects e visualize os resultados.
 5. Manipule os Dados com o script de update/delete para aplicar as atualizações e exclusões de dados.
 
-# 🔍 Análises Estratégicas (Insights) #
+## 🔍 Análises Estratégicas (Insights) ##
 
 Neste projeto, desenvolvi consultas para resolver problemas reais, como:
 
@@ -51,5 +51,5 @@ Análise para entender quais nichos (ex: Eletrônicos vs. Vestuário) possuem ma
 3. Monitoramento de Qualidade
 Filtro de produtos para identificar produtos que precisam de revisão técnica ou troca de fornecedor.
 
-# 👩‍💻 Sobre a Autora #
+## 👩‍💻 Sobre a Autora ##
 Estudante de Ciência da Computação com foco em Análise de Dados. Utilizo o SQL como ferramenta para transformar dados brutos em inteligência de negócio e decisões estratégicas.
